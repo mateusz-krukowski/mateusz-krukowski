@@ -3,7 +3,7 @@
   <h2>Java adept and iphone owner 💀</h2>
   <p>computer clicking artist and philosopher wanting to understand how things work </p>
   <p>and unfortunately idealist and "reinventing the wheel" lover (employers don't like that)<p>
-  <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/19/Buisness_Man.png/" style="display: block; margin: 0 auto;">
+  <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/19/Buisness_Man.png/" style="display: block; margin: 0 auto width: 45px; height: 40px; ">
   
   <h2>I enjoy: </h2>
   <ul align="left">
