@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>Hi👋 I'm Mateusz Krukowski</h1>
+<div display: flex; align="center">
+  <h1 display: inline-block;>Hi👋 I'm Mateusz Krukowski</h1>   <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/19/Buisness_Man.png/" align="right" > 
   <h2>Java adept and iphone owner 💀</h2>
   <p>computer clicking artist and philosopher wanting to understand how things work </p>
   <p>and unfortunately idealist and "reinventing the wheel" lover (employers don't like that)<p>
-  <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/19/Buisness_Man.png/" style="display: block; margin: 0 auto width: 45px; height: 40px; ">
+
   
   <h2>I enjoy: </h2>
   <ul align="left">
@@ -17,7 +17,7 @@
     <li>relational databases</li>
     <li>forced OOP (I love you java 💀) </li>
     <li>big corporations</li>
-    <li>using someone else's work and making products out of it because reinventing the wheel</li>
+    <li>using someone else's work and making products out of it because reinventing the wheel bad</li>
   </ul>
 
   <h5><h5>
