@@ -1,4 +1,4 @@
-<div display: flex; align="center">
+<div display: flex; align="left">
   <h1 display: inline-block;>Hi👋 I'm Mateusz Krukowski</h1>   <img src="https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/19/Buisness_Man.png/" align="right" > 
   <h2>Java adept and iphone owner 💀</h2>
   <p>computer clicking artist and philosopher wanting to understand how things work </p>
@@ -21,12 +21,12 @@
     <li>Big corporations</li>
     <li>The fact that almost all apps nowadays are used with web technologies</li>
   </ul>
-<div align="left">
+
   <h5><h5>
   <p>Feel free to reach me at: </p>
   <p>📫email: mat.woz.2001@gmail.com</p><div> 
   <p>📫email: matwoz2001@icloud.com</p>
-</div>
+
 
 <!--thorlaksson/thorlaksson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
