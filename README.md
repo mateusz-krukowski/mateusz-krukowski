@@ -24,8 +24,8 @@
 
   <h5><h5>
   <p>Feel free to reach me at: </p>
-  <p>📫email: mat.woz.2001@gmail.com</p><div> 
-  <p>📫email: matwoz2001@icloud.com</p>
+  <p>📫email: <a href="mat.woz.2001@gmail.com">mat.woz.2001@gmail.com</a></p><div> 
+  <p>📫email: <a href="matwoz2001@icloud.com<">matwoz2001@icloud.com</a></p>
 
 
 <!--thorlaksson/thorlaksson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
