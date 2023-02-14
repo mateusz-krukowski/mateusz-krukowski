@@ -19,7 +19,7 @@
     <li>Relational databases</li>
     <li>Forced OOP (I love you java 💀) </li>
     <li>Big corporations</li>
-    <li>The fact that almost all apps nowadays are used with web technologies</li>
+    <li>The fact that almost all apps nowadays are developed with web technologies</li>
   </ul>
 
   <h5><h5>
